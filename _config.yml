@@ -4,10 +4,10 @@ author: "Derrick Dzormeku"
 
 theme: jekyll-theme-cayman
 
-baseurl: "/vle-student-success-predictive-analytics"
+# IMPORTANT: baseurl must match this repository name exactly
+# Example repo: https://dertornam.github.io/work-support-ops-trend-analysis
+baseurl: "/work-support-ops-trend-analysis"
 url: "https://dertornam.github.io"
 
-# Optional plugins (these are safe with Cayman)
 plugins:
-  - jekyll-paginate
   - jekyll-gist
