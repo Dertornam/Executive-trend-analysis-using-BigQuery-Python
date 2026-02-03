@@ -1,0 +1,11 @@
+title: Work Support Operations Trend Analysis
+description: Operational Workload Forecast (MA)
+author: "Derrick Dzormeku"
+
+theme: jekyll-theme-cayman
+
+url: "https://dertornam.github.io"
+baseurl: "/Executive-trend-analysis-using-BigQuery-Python"
+
+plugins:
+  - jekyll-gist
