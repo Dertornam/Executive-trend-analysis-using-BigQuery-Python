@@ -1,0 +1,13 @@
+title: Predictive Analytics for Student Success
+description: VLE-based early warning analytics for student retention.
+author: "Derrick Dzormeku"
+
+theme: jekyll-theme-cayman
+
+baseurl: "/vle-student-success-predictive-analytics"
+url: "https://dertornam.github.io"
+
+# Optional plugins (these are safe with Cayman)
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
